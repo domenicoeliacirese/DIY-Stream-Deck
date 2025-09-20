@@ -5,7 +5,7 @@
 ![Language: C++](https://img.shields.io/badge/Language-C++-blue.svg)
 ![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)
 
-A compact physical audio mixer to control individual application volumes on a Windows PC using rotary encoders and an ESP32 microcontroller. Supports real-time volume adjustment, mute toggling, and automatic channel reset when applications close.
+A compact physical audio mixer to control individual application volumes on a Windows PC using rotary encoders and an ESP32 microcontroller.
 
 ## Features
 
