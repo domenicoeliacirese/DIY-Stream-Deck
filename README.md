@@ -24,8 +24,16 @@ A compact physical audio mixer to control individual application volumes on a Wi
 ## Included in This Repository
 
 - STL files for 3D printing the case and encoder knobs   
-- Electrical connection schematic  
 - Python script for Windows PC volume management  
-- Arduino `.ino` sketch for ESP32 firmware  
+- Arduino `.ino` sketch for ESP32 firmware
+
+## Future Plans
+
+- Optimize and improve the current functionality for smoother performance  
+- Enable the functionality of the top buttons, which are currently non-functional  
+- Add icons on the displays to show mute status instead of just “0”  
+- Display the icon of the currently open application on the mixer’s display  
+- Redesign the 3D model for the case to enhance aesthetics and usability  
+- Electrical connection schematic  
 
 ![DIY Stream Deck](diy-stream-deck.png)
